@@ -1,0 +1,1 @@
+# azure-function-event-grid-trigger-sample
